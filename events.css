@@ -1,0 +1,11 @@
+button{
+    color: rgb(49, 97, 97);
+    background-color: rgb(198, 226, 43);
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    color: bisque;
+    border: 1px solid black; margin: 2px;
+}

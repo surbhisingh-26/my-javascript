@@ -1,0 +1,11 @@
+ //console.log("Surbhi");
+ let accEmail="suuuuuuu";
+ var accName="surbhi";
+ const accHaving="1233";
+ accCity="noida";
+ let fname="sss";
+ console.log([accEmail,accHaving,accName,accCity,fname]);
+ //accHaving=123;
+ //console.log(accHaving);
+ accName="baccha";
+ console.log(accName);

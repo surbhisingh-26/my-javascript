@@ -1,0 +1,29 @@
+h1{
+    color: aquamarine;
+    background-color: antiquewhite;
+}
+ #box{
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+}
+#subh{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+.paroo{
+    height:20px;
+    width:200px;
+    background-color: blueviolet;
+    color: antiquewhite;
+    border: 1px solid black;
+}
+.content{
+    color: brown;
+}
+.newclass
+{
+    background-color: aquamarine;
+}
